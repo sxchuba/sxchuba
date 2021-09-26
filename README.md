@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sxchuba
-- 👀 I’m interested in code for security
+- 👀 I’m interested in code for cyber security
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on capture the flag events
 - 📫 How to reach me ...
